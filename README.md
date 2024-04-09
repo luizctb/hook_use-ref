@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+## DATE REFERENCE
+[Reference](https://www.youtube.com/watch?v=Le5SkDfi8Ic&list=PLnDvRpP8BnezRWrjnDgh6LOhgIBbPnEtt&index=3)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
